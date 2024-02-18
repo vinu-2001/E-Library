@@ -5,7 +5,8 @@
 <li>This system provides librarians and library staff with tools to streamline book tracking, member management, and administrative tasks, enhancing the overall library experience for both staff and patrons.</li></ul>
 
 <h4>Note</h4><ul><li><span>This is elibraryDB.bacpac file having the Database with some data <href>https://www.youtube.com/watch?v=XLzV_gagkZc&t=222s&pp=ygUxaG93IHRvIGltcG9ydCBkYXRhYmFzZSBpbiBtc3NxbCBzc21zIHVzaW5nIGJhY3BhYw%3D%3D</href> this is the youtube link for importing the bacpac file in your system's SSMS. </span></li>
-<li><span>In order to connect the database server and your client machine you need to change the Connection string of the Database which is present in the Web.config file .Change the Line no.8 connectin string. don't change line no.9 connectin string.  </span></li></ul>
+<li><span>In order to connect the database server and your client machine you need to change the Connection string of the Database which is present in the Web.config file .Change the Line no.8 connectin string. don't change line no.9 connectin string.  </span></li>
+<li><span>This project having Library Management fearutes and Book Buying fearture is not working properly.</span></li></ul>
 
 <h4>References</h4>
 <span>Simple Snippet YouTube Channel.</span>
