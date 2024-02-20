@@ -1,4 +1,4 @@
-<h1>Online Book Buying and Selling Project with Library Management</h1>
+<h1>Online Book Buying and Selling Portal with Library Management</h1>
 <ul><li>Developed a cutting-edge web application using ASP.NET and C# for the front-end and back-end, leveraging Bootstrap 4 for CSS design, and Sql Server with SSMS for database management system to revolutionize and enhance the functionality of the traditional computerized Library Management System.</li>
 <li>Leveraged the power of ASP.NET and Visual Studio to create a user-friendly, attractive and responsive solution for Librarian and students or users.</li>
 <li>Designed and implemented a dynamic and interactive experience using Bootstrap 4 that addresses the need for mobile friendly web application. </li>
